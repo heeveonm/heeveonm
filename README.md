@@ -121,11 +121,8 @@ UI/UX 디자인 + 소프트웨어 개발을 함께 다루는 **하이브리드�
 
 # 🏅 GitHub Stats  
 
-
-![Heeveonm's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=tokyonight)
-
----
+![Heeveonm's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeveonm&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeveonm&layout=compact&theme=tokyonight)
 
 # 🎯 Future Roadmap
 - React + TypeScript 학습  
@@ -137,4 +134,4 @@ UI/UX 디자인 + 소프트웨어 개발을 함께 다루는 **하이브리드�
 ---
 
 # 📝 Blog / Notion  
-*(원하면 여기 링크 추가 가능)*
+https://m.blog.naver.com/heeveonmoon
