@@ -119,9 +119,9 @@ UI/UX 디자인 + 소프트웨어 개발을 함께 다루는 **하이브리드�
 
 ---
 
-# 🏅 GitHub Stats  
-![Stats](https://github-readme-stats-git-master-mirrors.vercel.app/api?username=heeveonm&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-git-master-mirrors.vercel.app/api/top-langs/?username=heeveonm&layout=compact&theme=tokyonight)
+# 🏅 GitHub Stats 
+![GitHub followers](https://img.shields.io/github/followers/heeveonm?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/heeveonm?style=for-the-badge)
 
 
 # 🎯 Future Roadmap
