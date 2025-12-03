@@ -36,7 +36,7 @@ UI/UX 디자인 + 소프트웨어 개발을 함께 다루는 **하이브리드�
 ---
 
 ## 📫 Contact
-- Email: *(원하면 추가 가능)*  
+- Email:heeyeon050322@gmail.com  
 - GitHub DM or Issues 환영!
 
 ---
@@ -46,7 +46,7 @@ UI/UX 디자인 + 소프트웨어 개발을 함께 다루는 **하이브리드�
 ## 🔹 LAN-Map: 실시간 위치 공유 & 충돌 감지 미니 지도  
 **Python · Socket · ASCII 기반 실시간 지도 프로그램**
 
-- 🔗 GitHub Repo: *(링크 넣기)*  
+- 🔗 GitHub Repo: 
 - **핵심 설명:** 클라이언트들의 위치를 서버가 실시간으로 관리하고 충돌 이벤트를 처리하는 네트워크 프로젝트  
 - **목적:** 지연·패킷 유실·동시성 제어 등 네트워크 핵심 개념 직접 구현
 
@@ -55,7 +55,7 @@ UI/UX 디자인 + 소프트웨어 개발을 함께 다루는 **하이브리드�
 ## 🔹 ZERO EXIT — 픽셀 기반 미로 탈출 게임  
 **HTML/CSS/JS UI + 파이썬 게임 로직 연동**
 
-- 🔗 GitHub Repo: *(링크 넣기)*  
+- 🔗 GitHub Repo: *(https://github.com/Lmyn0/OSS-team4.git)*  
 - **한 줄 설명:** 고전 감성 픽셀 UI + Python 미로 탈출 게임  
 - **목적:** Flask UI 연동, 페이지 구조 설계, 팀 협업 UI/UX 제작
 
@@ -64,7 +64,7 @@ UI/UX 디자인 + 소프트웨어 개발을 함께 다루는 **하이브리드�
 ## 🔹 L2Q — Lecture to Quiz (웹앱 UI/UX 프로젝트)  
 **AI 기반 자동 문제 생성 서비스**
 
-- 🔗 Repo 또는 Notion: *(추가 가능)*  
+- 🔗 Repo 또는 Notion: 
 - **핵심 설명:** PDF/이미지를 자동 분석하여 퀴즈로 변환  
 - **목적:** UI 구조 설계, UX 흐름 정의, CSS 구현 경험 확장
 
@@ -120,7 +120,7 @@ UI/UX 디자인 + 소프트웨어 개발을 함께 다루는 **하이브리드�
 ---
 
 # 🏅 GitHub Stats  
-*(YOUR_ID 부분을 너의 GitHub username으로 바꿔줘)*
+
 
 ![Heeveonm's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=tokyonight)
