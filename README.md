@@ -120,18 +120,19 @@ UI/UX 디자인 + 소프트웨어 개발을 함께 다루는 **하이브리드�
 ---
 
 # 🏅 GitHub Stats 
- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nodevvice&theme=radical" alt="GitHub Streak" />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=heeveonm&theme=radical" alt="GitHub Streak" />
   
   <br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=nodevvice&theme=radical&no-frame=true&margin-w=15" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=heeveonm&theme=radical&no-frame=true&margin-w=15" alt="trophy" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/219138/nodevvice" alt="nodevvice's Github chart" />
+  <img src="https://ghchart.rshah.org/219138/heeveonm" alt="heeveonm's Github chart" />
 </div>
 
 
