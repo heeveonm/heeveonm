@@ -122,7 +122,7 @@ UI/UX 디자인 + 소프트웨어 개발을 함께 다루는 **하이브리드�
 # 🏅 GitHub Stats  
 *(YOUR_ID 부분을 너의 GitHub username으로 바꿔줘)*
 
-![Heeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight)  
+![Heeveonm's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=tokyonight)
 
 ---
